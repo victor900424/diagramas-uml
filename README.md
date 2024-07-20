@@ -1,6 +1,6 @@
 # diagramas-uml
 
-Este proyecto contiene los siguientes diagramas para los sistemas de Gestión de Biblioteca y Gestión de comercio electrónico:
+Este proyecto contiene los siguientes diagramas para el sistema de Biblioteca y el sistema de comercio electrónico:
 
 1. Diagrama de Casos de Uso
 2. Diagrama de Secuencia
